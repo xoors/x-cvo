@@ -1,0 +1,19 @@
+{
+  "name": "x-cvo",
+  "version": "1.0.0",
+  "description": "Common Value Objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xoors/x-cvo.git"
+  },
+  "author": "ra@xoors.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xoors/x-cvo/issues"
+  },
+  "homepage": "https://github.com/xoors/x-cvo#readme"
+}
