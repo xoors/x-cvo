@@ -9,5 +9,3 @@ export class RecordStatus {
   static ACHIEVED = 'R'
   static DELETED = 'D'
 }
-
-const a = 'test'
