@@ -1,2 +1,1 @@
-# x-cvo
-Common Value Objects
+# Common Value Objects
