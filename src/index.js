@@ -1,1 +1,1 @@
-export {ProgressStatus, RecordStatus} from './value-objects/commons'
+export {ProgressStatus, RecordStatus, UserAccess} from './value-objects/commons'
